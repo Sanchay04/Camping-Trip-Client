@@ -1,0 +1,1 @@
+# Camping-Trip-Client
