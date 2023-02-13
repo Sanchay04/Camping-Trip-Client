@@ -8,5 +8,5 @@ In this videogame a player is randomly chosen to play as the beast. All other pl
 
 This is a video of the videogame being played on my High school's wireless network. It shows numerous students playing with eachother in realtime through a connection to the game server. In order to play there must be a game server and atleast one game client connected to a network, and the local ip address of the game server must be entered into the address .txt file in the client project specialdata folder before compilation.
 
-
+https://img.youtube.com/vi/<dBsfUtjTbi0>/maxresdefault.jpg
 
