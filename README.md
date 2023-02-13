@@ -6,6 +6,8 @@ In this videogame a player is randomly chosen to play as the beast. All other pl
 
 ## Demonstration Video
 
-This is a video of the videogame being played on my High school's wireless network. It shows numerous students playing with eachother in realtime through a connection to the game server. In order to play there must be a game server and atleast one game client connected to the local network, and the local ip address of the game server must be entered into the address .txt file in the client project specialdata folder before compilation. Portforwarding can be used to connect to game servers hosted on a network outside of the local network. **I apologize for any offensive names that may appear in the demonstration video. I implemented a filter that prevents certain characters and phrases from being used to prevent player confusion, but I did not want to include a list of inappropriate phrases in the project files. The names students chose were out of my control.**
+This is a video of the videogame being played on my High school's wireless network. It shows numerous students playing with eachother in realtime through a connection to the game server. In order to play there must be a game server and atleast one game client connected to the local network, and the local ip address of the game server must be entered into the address .txt file in the client project specialdata folder before compilation. Portforwarding can be used to connect to game servers hosted on a network outside of the local network. 
+
+**I apologize for any offensive names that may appear in the demonstration video. I implemented a filter that prevents certain characters and phrases from being used to prevent player confusion, but I did not want to include a list of inappropriate phrases in the project files. The names students chose were out of my control.**
 
 [![Watch the video](https://img.youtube.com/vi/RgiiyS6nZ5A/maxresdefault.jpg)](https://youtu.be/RgiiyS6nZ5A)
