@@ -2,7 +2,7 @@
 
 This is the client portion of an online multiplayer videogame project I made in the Unity cross-platform game engine. The images for this project were made using a combination of scanned hand-drawn images and digital images made using Procreate. I worked on this project throughout about a month of my Sophomore year in High school.
 
-In this videogame a player is randomly chosen to play as the beast. All other players in the server play as human hunters who try to hunt the beast down and defeat it. While beasts have the ability to grab and carry hunters, climb trees, and transform into rocks, hunters can purchase weapons from an RV store in the home camp and light lanterns to illuminate their surroundings. Hunters make money everytime they deal damage to the beast, and highscores are decided based on how much money a hunter makes on a server.
+In this videogame a player is randomly chosen to play as the beast. All other players in the server play as human hunters who try to hunt the beast down and defeat it. While beasts have the ability to grab and carry hunters, climb trees, and transform into rocks, hunters can purchase weapons from an RV store in the home camp and light lanterns to illuminate their surroundings. Hunters make money everytime they deal damage to the beast, and highscores are decided based on how much money a hunter makes on a server. Highscores can be viewed by standing next to the campfire in the home camp.
 
 ## Demonstration Video
 
