@@ -10,4 +10,5 @@ This is a video of the videogame being played on my highschool wireless network.
 
 **I apologize for any offensive student names that may appear in the demonstration video; I implemented a filter that prevents specific phrases from being used to prevent player confusion, but I really did not want to include a list of inappropriate phrases in the project files. The names chosen by students were out of my control.**
 
+https://youtu.be/JbBNw1xzAYE
 [![Watch the video](https://img.youtube.com/vi/RgiiyS6nZ5A/maxresdefault.jpg)](https://youtu.be/RgiiyS6nZ5A)
