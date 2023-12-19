@@ -1,6 +1,6 @@
 # Camping-Trip-Client
 
-This is the client portion of the online multiplayer videogame I made in my sophomore year of highschool.
+This is the client portion of the online multiplayer videogame I made in my sophomore year of highschool using the cross-platform game engine Unity.
 
 In this videogame a player is randomly chosen to play as the beast. All other players in the server play as hunters who attempt to hunt the beast down and defeat it. Beasts can grab hunters, climb trees and transform into rocks; hunters can use tools purchased from their home encampment, and they can light lanterns to illuminate their surroundings. Hunters make money everytime they injure the beast, and the highscore goes to the hunter with the most money on the server. Highscores can be viewed by standing next to the home campfire.
 
