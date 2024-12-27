@@ -8,6 +8,6 @@ In this videogame a player is randomly chosen to play as the beast. All other pl
 
 This is a video of the videogame being played on my high school wireless network. It demonstrates students playing with eachother in realtime through their wireless connection to the game server. In order to play there must be a game server and atleast one game client connected to the game server via a local network.
 
-**I apologize for any offensive student created player names that may appear in the demonstration video; I implemented a filter that prevents specific phrases from being used to prevent player confusion, but I really did not want to include a list of inappropriate phrases in the project files. The names chosen by students were out of my control.**
+**I apologize for any offensive student created player names that may appear in the demonstration video; I implemented a filter that prevents specific phrases from being used to prevent player confusion, but I wanted to avoid incorporating a list of offensive and derogatory phrases in the project files. The names chosen by students were out of my control.**
 
 [![Watch the video](https://img.youtube.com/vi/JbBNw1xzAYE/maxresdefault.jpg)](https://youtu.be/JbBNw1xzAYE)
